@@ -37,8 +37,13 @@ Me chamo Kleiton Lima de Oliveira, tenho 23 anos e sou de São Paulo. Sou formad
 
 <br>
 
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bykleitonlima&theme=gotham" alt="Most used languages" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bykleitonlima&theme=gotham" alt="Github Stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bykleitonlima&theme=gotham" width="688" alt="Activity Graph" />
+
+</div>
