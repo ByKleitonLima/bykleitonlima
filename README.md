@@ -2,7 +2,7 @@
 
 **DESENVOLVEDOR FRONT-END**
 
-Me chamo Kleiton Lima de Oliveira, tenho 23 anos e sou de São Paulo. Sou formado em curso ADS. Atualmente, estou cursando Engenharia de Software na UNICSUL. Adoro tecnologia e a forma como ela está evoluindo, a baixo pode ver alguns projetos que fiz.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação e Engenharia de Software. Desde o início da minha trajetória profissional, sempre fui movido pela curiosidade e pela vontade de aprender. Ao longo dos anos, adquiri experiência no setor administrativo, atuando na 7Y Distribuidora em funções que exigiam atenção aos detalhes, organização e análise de dados, como Assistente de Faturamento. Com um olhar voltado para a tecnologia, decidi direcionar minha carreira para o desenvolvimento Front-End. Também estou me aprofundando em frameworks modernos e explorando conceitos de desenvolvimento web. me permitindo compreender melhor o funcionamento do back-end e integrar soluções eficientes.
 
 <p align="left">
 
